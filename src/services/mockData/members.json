@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "email": "demo@futurepath.com",
+    "tier": "premium",
+    "stripeCustomerId": "cus_demo123",
+    "joinedAt": "2024-01-15T10:30:00Z",
+    "subscriptionId": "sub_demo123"
+  },
+  {
+    "Id": 2,
+    "email": "freemember@example.com",
+    "tier": "free",
+    "stripeCustomerId": null,
+    "joinedAt": "2024-02-20T14:15:00Z",
+    "subscriptionId": null
+  }
+]

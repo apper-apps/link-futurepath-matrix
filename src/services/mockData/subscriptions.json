@@ -1,0 +1,9 @@
+[
+  {
+    "Id": 1,
+    "memberId": "1",
+    "status": "active",
+    "currentPeriodEnd": "2024-04-15T10:30:00Z",
+    "priceId": "price_premium_monthly"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 1,
+    "title": "Introduction to Career Planning",
+    "type": "article",
+    "tier": "free",
+    "category": "Career Development",
+    "duration": 5,
+    "description": "Learn the basics of mapping your career path and setting professional goals.",
+    "imageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=400&h=300&fit=crop"
+  },
+  {
+    "Id": 2,
+    "title": "Mastering Job Interviews",
+    "type": "video",
+    "tier": "free",
+    "category": "Interview Skills",
+    "duration": 15,
+    "description": "Essential tips and techniques for acing your next job interview.",
+    "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=300&fit=crop"
+  },
+  {
+    "Id": 3,
+    "title": "Advanced Leadership Strategies",
+    "type": "course",
+    "tier": "premium",
+    "category": "Leadership",
+    "duration": 120,
+    "description": "Comprehensive course on developing executive leadership skills and team management.",
+    "imageUrl": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=400&h=300&fit=crop"
+  },
+  {
+    "Id": 4,
+    "title": "Negotiation Mastery",
+    "type": "course",
+    "tier": "premium",
+    "category": "Business Skills",
+    "duration": 90,
+    "description": "Master the art of negotiation in business and career advancement.",
+    "imageUrl": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=300&fit=crop"
+  },
+  {
+    "Id": 5,
+    "title": "Personal Branding Basics",
+    "type": "article",
+    "tier": "free",
+    "category": "Personal Development",
+    "duration": 8,
+    "description": "Build a strong personal brand that stands out in your industry.",
+    "imageUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=300&fit=crop"
+  },
+  {
+    "Id": 6,
+    "title": "Executive Mentorship Program",
+    "type": "course",
+    "tier": "premium",
+    "category": "Mentorship",
+    "duration": 180,
+    "description": "One-on-one mentorship with industry executives and senior leaders.",
+    "imageUrl": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=400&h=300&fit=crop"
+  },
+  {
+    "Id": 7,
+    "title": "Networking Fundamentals",
+    "type": "video",
+    "tier": "free",
+    "category": "Professional Skills",
+    "duration": 20,
+    "description": "Learn how to build and maintain professional relationships effectively.",
+    "imageUrl": "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=400&h=300&fit=crop"
+  },
+  {
+    "Id": 8,
+    "title": "Digital Marketing for Professionals",
+    "type": "course",
+    "tier": "premium",
+    "category": "Marketing",
+    "duration": 150,
+    "description": "Comprehensive digital marketing strategies for career advancement.",
+    "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=300&fit=crop"
+  }
+]

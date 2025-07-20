@@ -11,11 +11,12 @@ const Header = () => {
   const location = useLocation();
   const { member } = useMember();
 
-  const navigation = [
+const navigation = [
     { name: "Home", href: "/" },
     { name: "Resources", href: "/resources" },
     { name: "Pricing", href: "/pricing" },
     { name: "Dashboard", href: "/dashboard" },
+    ...(member?.tier === "premium" ? [{ name: "Forum", href: "/forum" }] : []),
     { name: "Account", href: "/account" }
   ];
 

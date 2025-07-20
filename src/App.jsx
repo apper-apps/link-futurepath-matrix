@@ -7,6 +7,7 @@ import Resources from "@/components/pages/Resources";
 import Pricing from "@/components/pages/Pricing";
 import Dashboard from "@/components/pages/Dashboard";
 import Account from "@/components/pages/Account";
+import Forum from "@/components/pages/Forum";
 
 function App() {
   return (
@@ -15,12 +16,13 @@ function App() {
         <Header />
         
         <main className="flex-1">
-          <Routes>
+<Routes>
             <Route path="/" element={<Home />} />
             <Route path="/resources" element={<Resources />} />
             <Route path="/pricing" element={<Pricing />} />
             <Route path="/dashboard" element={<Dashboard />} />
             <Route path="/account" element={<Account />} />
+            <Route path="/forum" element={<Forum />} />
           </Routes>
         </main>
         
